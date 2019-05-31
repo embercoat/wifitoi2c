@@ -1,0 +1,11 @@
+{
+  "address":"15",
+  "sequence": [
+    {"type":"byte","value":[170,10,1]},
+    {"type":"delay","value":2000},
+    {"type":"byte","value":[130,255,255]},
+    {"type":"delay","value":5000},
+    {"type":"byte","value":[130,0,0]},
+    {"type":"delay","value":2000}
+  ]
+}

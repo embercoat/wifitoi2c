@@ -1,0 +1,6 @@
+{
+  "address":"15",
+  "sequence": [
+    {"type":"byte","value":[130,0,0]},
+  ]
+}
